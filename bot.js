@@ -24,7 +24,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Welcome TO Kin SerVer`,"https://discordapp.com/channels/@me/626451542794567715")
+client.user.setGame(`DeepSide`,"https://discordapp.com/channels/@me/626451542794567715")
 client.user.setStatus("dnd")
 });
 
